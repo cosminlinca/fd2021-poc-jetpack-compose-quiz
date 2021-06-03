@@ -1,0 +1,4 @@
+<resources>
+    <item name="welcome_fragment" type="id" />
+    <item name="quiz_fragment" type="id" />
+</resources>
